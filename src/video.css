@@ -1,0 +1,44 @@
+.video-page-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 12px;
+    background: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .video-page-container h2 {
+    text-align: center;
+    font-size: 28px;
+    color: #333333;
+    margin-bottom: 20px;
+  }
+  
+  video {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    border: 2px solid #e0e0e0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .progress-container {
+    margin-top: 15px;
+    padding: 12px 16px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .progress-container p {
+    margin: 0;
+    font-size: 16px;
+    color: #444;
+  }
+  
+  .progress-container strong {
+    color: #2b7cff;
+  }
+  
